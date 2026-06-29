@@ -21,11 +21,11 @@
             =====================================
               keyboard + gamepad + touch, always
 </pre>
-
 <p align="center">
-  <code>▪ powered by WizArt — my own engine, no Godot, no Unity ▪</code><br>
-  <code>▪ Desktop ⌨️🖱️ · RG406V 🎮 · R36S 🕹️ · Web 🌐 ▪</code>
+  <code>▪ powered by WizArt — my own engine ▪</code><br>
+  <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
 </p>
+
 
 ---
 
@@ -33,7 +33,12 @@
 
 <p align="center">
   A hand-rolled WebGL engine (js13k lineage) — one codebase, runs in the browser<br>
-  <em>and</em> natively on R36S handhelds. <b><a href="https://github.com/Buku313/wizart">★ coming soon ★</a></b>
+  <em>and</em> natively on Android &amp; handhelds. <b><a href="https://github.com/Buku313/wizart">★ coming soon ★</a></b>
+</p>
+
+<p align="center">
+  <b>BukuNet</b> — my Android front end for the whole lineup 🤖<br>
+  one app, every game, gamepad + touch.
 </p>
 
 <p align="center">
