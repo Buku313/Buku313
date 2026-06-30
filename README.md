@@ -43,7 +43,7 @@
 
 <p align="center">
   <b><a href="https://buku.chat">buku.chat</a></b> — where everything lives &amp; plays in the browser<br>
-  <a href="https://github.com/Buku313/ParadiZe">🧟 ParadiZe</a> ·
+  <a href="https://github.com/Buku313/ParadiZe">ParadiZe</a> ·
   <a href="https://buku.chat/bukunet/">🐟 Snagged</a> ·
   <a href="https://buku.chat/bukunet/">🐾 BukuPets</a> ·
   <a href="https://github.com/Buku313/bukuloops">🎛️ BukuLoops</a> ·
