@@ -15,6 +15,16 @@
   <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
 </p>
 
+---
+
+<h3 align="center">💼 by day</h3>
+
+<p align="center">
+  <b>CTO</b> · <a href="https://logeek.io">Logeek.io</a><br>
+  <b>CEO</b> · <a href="https://dev313.com">Dev313.com</a><br>
+  <b>CTO</b> · <a href="https://autosdeamerica.com">AutosDeAmerica.com</a><br>
+  <b>Product Integrations &amp; Innovations</b> · <a href="https://onvopay.com">ONVOPay.com</a>
+</p>
 
 ---
 
