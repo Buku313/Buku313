@@ -7,20 +7,9 @@
 
 <p align="center">
   <a href="https://buku.chat/bukunet/">
-    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/lab.gif" width="820" alt="The Containment Deck — live game holograms">
+    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/bukunet-logo.gif" width="440" alt="BukuNet">
   </a>
 </p>
-
-<table align="center"><tr>
-<td align="center"><a href="https://buku.chat/paradize/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-paradize.gif" width="96" alt="ParadiZe"><br><sub>ParadiZe</sub></a></td>
-<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-poker.gif" width="96" alt="Poker"><br><sub>Poker</sub></a></td>
-<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-blackjack.gif" width="96" alt="Blackjack"><br><sub>Blackjack</sub></a></td>
-<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-hangman.gif" width="96" alt="Hangman"><br><sub>Hangman</sub></a></td>
-<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-rps.gif" width="96" alt="RPS"><br><sub>RPS</sub></a></td>
-<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-snake.gif" width="96" alt="Snake"><br><sub>Snake</sub></a></td>
-</tr></table>
-
-<p align="center"><sub>▪ specimens live in the <a href="https://buku.chat/bukunet/">BukuNet</a> containment deck — keyboard + gamepad + touch, always ▪</sub></p>
 <p align="center">
   <code>▪ powered by WizArt — my own engine ▪</code><br>
   <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
@@ -43,11 +32,7 @@
 
 <p align="center">
   <b><a href="https://buku.chat">buku.chat</a></b> — where everything lives &amp; plays in the browser<br>
-  <a href="https://github.com/Buku313/ParadiZe">ParadiZe</a> ·
-  <a href="https://buku.chat/bukunet/">🐟 Snagged</a> ·
-  <a href="https://buku.chat/bukunet/">🐾 BukuPets</a> ·
-  <a href="https://github.com/Buku313/bukuloops">🎛️ BukuLoops</a> ·
-  <a href="https://github.com/Buku313/bukudolphin">🐬 BukuDolphin</a> <sub>(netplay)</sub>
+  <a href="https://github.com/Buku313/ParadiZe">ParadiZe</a>
 </p>
 
 ---
