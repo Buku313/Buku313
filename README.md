@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://buku.chat/bukunet/">
-    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/bukunet-logo.gif" width="440" alt="BukuNet">
+    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/bukunet-logo.gif" width="460" alt="BukuNet">
   </a>
 </p>
 <p align="center">
