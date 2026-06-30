@@ -5,22 +5,13 @@
   <em>One codebase → runs on desktop, handhelds, and the web. </em>
 </p>
 
-<pre align="center">
-            .------------------------.
-            |  ▚▚  B U K U N E T  ▚▚  |
-            |========================|
-            |  > snagged......[play] |
-            |  > paradize.....[play] |
-            |  > bukupets.....[play] |
-            |  > bukuloops....[play] |
-            |  > _                    |
-            '------------------------'
-                 ||            ||
-            =====================================
-             [ ▣ ]  [ ▣ ]  [ ▣ ]  [ ▣ ]  [ ▣ ]
-            =====================================
-              keyboard + gamepad + touch, always
-</pre>
+<p align="center">
+  <a href="https://buku.chat/bukunet/">
+    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/bukunet-holo.gif" width="640" alt="BukuNet — holographic game deck">
+  </a>
+</p>
+
+<p align="center"><sub>▪ BukuNet — keyboard + gamepad + touch, always ▪</sub></p>
 <p align="center">
   <code>▪ powered by WizArt — my own engine ▪</code><br>
   <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
