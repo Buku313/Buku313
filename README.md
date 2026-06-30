@@ -1,8 +1,8 @@
-<h1 align="center">🕹️ Welcome to <code>buku</code>'s github 🕹️</h1>
+<h1 align="center">Welcome to <code>paradise</code> </h1>
 
 <p align="center">
-  <em>🎮 Hey! I'm Buku — I build games &amp; tools, full custom, no engine. ✦</em><br>
-  <em>One codebase → runs on desktop, handhelds, and the web. ✦ 🎮</em>
+  <em> I'm Buku — I build games &amp; tools, full custom, no engine. ✦</em><br>
+  <em>One codebase → runs on desktop, handhelds, and the web. </em>
 </p>
 
 <pre align="center">
