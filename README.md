@@ -5,13 +5,16 @@
   <em>One codebase → runs on desktop, handhelds, and the web. </em>
 </p>
 
-<p align="center">
-  <a href="https://buku.chat/bukunet/">
-    <img src="https://raw.githubusercontent.com/Buku313/Buku313/main/bukunet-holo.gif" width="640" alt="BukuNet — holographic game deck">
-  </a>
-</p>
+<table align="center"><tr>
+<td align="center"><a href="https://buku.chat/paradize/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-paradize.gif" width="130" alt="ParadiZe"><br><sub>ParadiZe</sub></a></td>
+<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-poker.gif" width="130" alt="Poker"><br><sub>Poker</sub></a></td>
+<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-blackjack.gif" width="130" alt="Blackjack"><br><sub>Blackjack</sub></a></td>
+<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-hangman.gif" width="130" alt="Hangman"><br><sub>Hangman</sub></a></td>
+<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-rps.gif" width="130" alt="RPS"><br><sub>RPS</sub></a></td>
+<td align="center"><a href="https://buku.chat/bukunet/"><img src="https://raw.githubusercontent.com/Buku313/Buku313/main/holos/holo-snake.gif" width="130" alt="Snake"><br><sub>Snake</sub></a></td>
+</tr></table>
 
-<p align="center"><sub>▪ BukuNet — keyboard + gamepad + touch, always ▪</sub></p>
+<p align="center"><sub>▪ live holograms from <a href="https://buku.chat/bukunet/">BukuNet</a> — keyboard + gamepad + touch, always ▪</sub></p>
 <p align="center">
   <code>▪ powered by WizArt — my own engine ▪</code><br>
   <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
