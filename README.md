@@ -12,12 +12,12 @@
 </p>
 <p align="center">
   <code>▪ powered by WizArt — my own engine ▪</code><br>
-  <code>▪ Desktop ⌨️🖱️ · Android 🤖 · Handhelds 🎮 · Web 🌐 ▪</code>
+  <code>▪ Desktop  · Android  · Handhelds  · Web ▪</code>
 </p>
 
 ---
 
-<h3 align="center">💼 by day</h3>
+<h3 align="center">dayjobs</h3>
 
 <p align="center">
   <b>CTO</b> · <a href="https://logeek.io">Logeek.io</a><br>
