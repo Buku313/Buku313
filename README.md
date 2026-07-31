@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="center">dayjobs</h3>
+<h3 align="center">day jobs</h3>
 
 <p align="center">
   <b>CTO</b> · <a href="https://logeek.io">Logeek.io</a><br>
