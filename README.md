@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <b><a href="https://buku.chat">buku.chat</a></b> — where everything lives &amp; plays in the browser<br>
+  <b><a href="https://buku.chat">buku.chat</a></b> — try BukuNet out, quit using discord they are spying on you. &amp; plays in the browser<br>
   <a href="https://github.com/Buku313/ParadiZe">ParadiZe</a>
 </p>
 
@@ -64,4 +64,4 @@
   </a>
 </p>
 
-<p align="center">▪ In the province of the mind, anything is possible ▪</p>
+<p align="center">▪ take what you got and live till it stops ▪</p>
