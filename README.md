@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to <code>paradise</code> </h1>
 
 <p align="center">
-  <em> I'm Buku — I build games &amp; tools, full custom, no engine. ✦</em><br>
+  <em> I'm Buku — I build games, engines and &amp; tools. ✦</em><br>
   <em>One codebase → runs on desktop, handhelds, and the web. </em>
 </p>
 
