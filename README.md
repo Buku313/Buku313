@@ -2,7 +2,6 @@
 
 <p align="center">
   <em> I'm Buku — I build games, engines and &amp; tools. ✦</em><br>
-  <em>One codebase → runs on desktop, handhelds, and the web. </em>
 </p>
 
 <p align="center">
