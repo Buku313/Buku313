@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <b><a href="https://buku.chat">buku.chat</a></b> — try BukuNet out, quit using discord they are spying on you. &amp; plays in the browser<br>
+  <b><a href="https://buku.chat">buku.chat</a></b> — try BukuNet out, quit using discord they are spying on you. runs well in the browser <br>
   <a href="https://github.com/Buku313/ParadiZe">ParadiZe</a>
 </p>
 
