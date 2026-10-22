@@ -27,12 +27,6 @@
 
 ---
 
-<h3 align="center">✦ WizArt — the engine behind it all ✦</h3>
-
-<p align="center">
-  A lightweight WebGL engine (js13k lineage) — one codebase, runs in the browser<br>
-  <em>and</em> natively on Android &amp; handhelds. <b><a href="https://github.com/Buku313/wizart">★ coming soon ★</a></b>
-</p>
 
 <p align="center">
   <b>BukuNet</b> — my Network and Android front end, please click the link! <br>
