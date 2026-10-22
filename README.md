@@ -10,8 +10,7 @@
   </a>
 </p>
 <p align="center">
-  <code>▪ powered by the wizArt engine▪</code><br>
-  <code>▪ Desktop  · Android  · Handhelds  · Web ▪</code>
+  <code>▪ powered by the wizArt engine ▪</code><br>
 </p>
 
 ---
